@@ -1,0 +1,7 @@
+.row {
+    margin: 0 !important;
+}
+.row .card-panel {
+    padding: 16px !important;
+    margin: 8px !important;
+}
